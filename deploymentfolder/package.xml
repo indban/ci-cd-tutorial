@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>apexMaster</members>
+        <members>apexMasterTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>standard-home</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Home_Page_Default</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Account-Account %28Marketing%29 Layout</members>
+        <members>Account-Account %28Sales%29 Layout</members>
+        <members>Account-Account %28Support%29 Layout</members>
+        <members>Account-Account Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>helloWorld</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <version>54.0</version>
+</Package>
